@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aya!</h1>
 <h3 align="center">A CompSci student at Kingston University, and Python Enthusiast.</h3>
 
-- 🔭 I’m currently working on - [AyaScript - A set of useful Python tools](https://github.com/AyaPK/AyaScript)
+- 🔭 I’m currently working on   - [AyaScript - A set of useful Python tools](https://github.com/AyaPK/AyaScript)
 
-- 🌱 I’m currently learning - **Java, Kotlin, Ruby**
+- 🌱 I’m currently learning     - **Java, Kotlin, Ruby**
 
-- ⚡ For fun project - [Conways Game of Life in PyGame](https://github.com/AyaPK/conways_game_of_life)
+- ⚡ For fun project             - [Conways Game of Life in PyGame](https://github.com/AyaPK/conways_game_of_life)
 
-- 🎅 Programming challenges - [Advent of Code](https://github.com/AyaPK/advent-of-code)
+- 🎅 Programming challenges      - [Advent of Code](https://github.com/AyaPK/advent-of-code)
 
 - 👨‍💻 View my personal website - [https://www.ayaspace.co.uk](https://www.ayaspace.co.uk)
 
-- 🌈 I want to learn - **SQL, Linux, Further Python**
+- 🌈 I want to learn              - **SQL, Linux, Further Python**
 
-- 📫 How to reach me - **aya.pk.contact@gmail.com**
+- 📫 How to reach me              - **aya.pk.contact@gmail.com**
+
+- 🌸 Prounouns                    - **She/Her**
 
 
 
