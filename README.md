@@ -15,6 +15,8 @@
 
 - 📫 How to reach me              - **aya.pk.contact@gmail.com**
 
+- ⚔ CodeWars                      - [CodeWars Profile](https://www.codewars.com/users/AyaSt)
+
 - 🌸 Prounouns                    - **She/Her**
 
 
