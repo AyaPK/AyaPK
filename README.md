@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aya!</h1>
 <h3 align="center">A CompSci student at Kingston University, and Python Enthusiast.</h3>
 
-- 🔭 I’m currently working on   - [AyaScript - A set of useful Python tools](https://github.com/AyaPK/AyaScript)
+- 🔭 I’m currently working on   - [100DaysOfCode - A 100 day coding challenge](https://github.com/AyaPK/100daysofcode)
 
 - 🌱 I’m currently learning     - **Java, Kotlin, Ruby**
 
