@@ -17,6 +17,8 @@
 
 - ⚔ CodeWars                      - [CodeWars Profile](https://www.codewars.com/users/AyaSt)
 
+- 📝 Blog / Writing Practice      - [Scarlet_Byte Blog](https://scarletbyte.wordpress.com/)
+
 - 🌸 Prounouns                    - **She/Her**
 
 
