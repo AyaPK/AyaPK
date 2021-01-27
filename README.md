@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aya!</h1>
 <h3 align="center">A CompSci student at Kingston University, and Python Enthusiast.</h3>
 
-- 🔭 I’m currently working on   - [AyaScript - Pseudocode compiler and additional Python Tools](https://github.com/AyaPK/AyaScript)
+- 🔭 I’m currently working on   - [Papaya - Pseudocode compiler and additional Python Tools](https://github.com/AyaPK/Papaya)
 
 - 🌱 I’m currently learning     - **Java, Kotlin, Ruby**
 
