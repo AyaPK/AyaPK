@@ -7,6 +7,8 @@
 
 - ⚡ For fun project             - [Conways Game of Life in PyGame](https://github.com/AyaPK/conways_game_of_life)
 
+- 📱 Ongoing App dev Project      - [Pokéfit](https://github.com/AyaPK/pokefit)
+
 - 🎅 Programming challenges      - [Advent of Code](https://github.com/AyaPK/advent-of-code)
 
 - 👨‍💻 View my personal website - [https://www.ayaspace.co.uk](https://www.ayaspace.co.uk)
