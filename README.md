@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aya!</h1>
 <h3 align="center">A CompSci student at Kingston University, and Python Enthusiast.</h3>
 
-- 🔭 I’m currently working on   - [Papaya - Pseudocode compiler and additional Python Tools](https://github.com/AyaPK/Papaya)
+- 📱 Ongoing App dev Project   - [Pokéfit](https://github.com/AyaPK/pokefit)
 
 - 🌱 I’m currently learning     - **Java, Kotlin, Ruby**
 
-- ⚡ For fun project             - [Conways Game of Life in PyGame](https://github.com/AyaPK/conways_game_of_life)
-
-- 📱 Ongoing App dev Project      - [Pokéfit](https://github.com/AyaPK/pokefit)
+- ⚡ For fun project             - [Conways Game of Life in PyGame](https://github.com/AyaPK/conways_game_of_life)   
 
 - 🎅 Programming challenges      - [Advent of Code](https://github.com/AyaPK/advent-of-code)
 
-- 👨‍💻 View my personal website - [https://www.ayaspace.co.uk](https://www.ayaspace.co.uk)
+- 👨‍💻 View my personal website    - [https://www.ayaspace.co.uk](https://www.ayaspace.co.uk)
 
 - 🌈 I want to learn              - **SQL, Linux, Further Python**
 
