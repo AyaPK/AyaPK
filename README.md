@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aya!</h1>
-<h3 align="center">A CompSci student at Kingston University, and Python Enthusiast.</h3>
+<h3 align="center">A CompSci graduate from Kingston University, and Python Enthusiast.</h3>
 
 - 📱 Ongoing App dev Project   - [Pokéfit](https://github.com/AyaPK/pokefit)
 
