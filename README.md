@@ -3,7 +3,7 @@
 
 - 📱 Ongoing App dev Project   - [Pokéfit](https://github.com/AyaPK/pokefit)
 
-- 🌱 I’m currently learning     - **Java, Kotlin, Ruby**
+- 🌱 I’m currently learning     - **Rails, C#, .NET**
 
 - ⚡ For fun project             - [Conways Game of Life in PyGame](https://github.com/AyaPK/conways_game_of_life)   
 
@@ -11,13 +11,11 @@
 
 - 👨‍💻 View my personal website    - [https://www.ayaspace.co.uk](https://www.ayaspace.co.uk)
 
-- 🌈 I want to learn              - **SQL, Linux, Further Python**
+- 🌈 I want to learn              - **As much as possible :D**
 
 - 📫 How to reach me              - **aya.pk.contact@gmail.com**
 
 - ⚔ CodeWars                      - [CodeWars Profile](https://www.codewars.com/users/AyaSt)
-
-- 📝 Blog / Writing Practice      - [Scarlet_Byte Blog](https://scarletbyte.wordpress.com/)
 
 - 🌸 Prounouns                    - **She/Her**
 
