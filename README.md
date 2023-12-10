@@ -3,7 +3,7 @@
 
 - 📱 Ongoing App dev Project   - [Pokéfit](https://github.com/AyaPK/pokefit)
 
-- 🌱 I’m currently learning     - **Rails, C#, .NET**
+- 🌱 I’m currently learning     - **Rails, React, Terraform**
 
 - ⚡ For fun project             - [Conways Game of Life in PyGame](https://github.com/AyaPK/conways_game_of_life)
 
