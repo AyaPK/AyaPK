@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aya!</h1>
 <h3 align="center">I like writing code and making cool things :)</h3>
 
-- 📱 Ongoing App dev Project   - [Pokéfit](https://github.com/AyaPK/pokefit)
+- 💻 Current Active Project   - [React Pokédex](https://github.com/AyaPK/pokedex)
 
 - 🌱 I’m currently learning     - **Rails, React, Terraform**
 
