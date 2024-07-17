@@ -3,7 +3,7 @@
 
 - 💻 Current Active Project   - [Slack Plays Pokémon](https://github.com/AyaPK/slack-plays-pokemon)
 
-- 🌱 I’m currently learning     - **Rails, React, Terraform**
+- 🌱 I’m currently learning     - **React, Terraform, iOS/SwiftUI**
 
 - ⚡ For fun project             - [Conways Game of Life in PyGame](https://github.com/AyaPK/conways_game_of_life)
 
