@@ -15,10 +15,7 @@
 
 I’m a **Full-Stack Software Engineer** based in London (she/her). I'm passionate about clean architecture, strong backend systems, and building projects that make people smile.  
 
-- 🐧 Linux (daily driver, dotfiles, system customisation)  
-- 🎮 Game development (Godot, GDScript)  
-- 🛠️ Writing open-source tools and playful experiments
-- 💮 My pronouns are she/her
+💮 My pronouns are she/her
 
 I'm always trying to be learning new things!
 
