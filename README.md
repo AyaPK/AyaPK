@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a **Full-Stack Software Engineer** based in London (she/her). I'm passionate about clean code, game development, and building cool things that make people smile.  
+I’m a **Full-Stack Software Engineer** based in London (she/her). I'm passionate about clean code, game development, and building cool things that make people smile!
 
 💮 My pronouns are she/her
 
