@@ -82,6 +82,7 @@ Since January 1st 2025 I have been challenging myself to make at least **one mea
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Bolt for Slack](https://img.shields.io/badge/-Bolt%20for%20Slack-4A154B?logo=slack&logoColor=white)
+![Springboot](https://img.shields.io/badge/-Springboot-239120?logo=Springboot&logoColor=white)
 
 
 #### 🛠️ Dev Tools
@@ -93,6 +94,10 @@ Since January 1st 2025 I have been challenging myself to make at least **one mea
 ![Windsurf](https://img.shields.io/badge/-Windsurf-0090FF?logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-179287?logo=gitkraken&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white)
