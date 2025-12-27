@@ -2,7 +2,7 @@
 <h3 align="center">Problem solver and maker of cool things :)</h3>
 
 <p align="center">
-  <a href="https://www.ayaspace.co.uk">🌐 Website</a> •
+  <a href="https://www.ayasca.dev">🌐 Website</a> •
   <a href="mailto:aya.pk.contact@gmail.com">📫 Email</a> •
   <a href="https://linkedin.com/in/aya-s-stead">💼 LinkedIn</a> •
   <a href="https://twitter.com/AyaStead">🐦 Twitter</a> •
