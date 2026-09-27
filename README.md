@@ -18,9 +18,6 @@ I’m a **Full-Stack Software Engineer** based in London (she/her). I'm passiona
 💮 My pronouns are she/her
 
 I'm always trying to be learning new things!
-
-Since January 1st 2025 I have been challenging myself to make at least **one meaningful commit** to one of my hobby projects **every day**!
-
 ---
 ### 🎮 Recent Gamedev Projects
 
