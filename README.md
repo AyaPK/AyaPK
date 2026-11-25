@@ -25,6 +25,7 @@ I'm always trying to be learning new things!
 - **[Bunny-Hop](https://github.com/AyaPK/Bunny-Hop)** – A fast-paced platformer developed in **Godot 4** for **GMTK Jam 2025**  
 - **[Land-Lord](https://github.com/AyaPK/Land-Lord)** – A kingdom-building idle game created for **Godot Wild Jam 79**
 - **[Slack Plays Pokémon](https://github.com/AyaPK/slack-plays-pokemon)** – A collaborative **Slack bot** that lets teams play **Gen 1 Pokémon** together
+- **[Discord Plays Pokémon](https://github.com/AyaPK/discord-plays-pokemon)** – A WIP port of **SlackPlaysPokémon** for **Discord**
 - **[Lumenless](https://github.com/AyaPK/Lumenless)** – A sidescrolling puzzle platformer, made for **Godot Wild Jam** and placed 8th out of 197 entries.
 
 
