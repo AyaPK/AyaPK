@@ -107,6 +107,10 @@ I'm always trying to be learning new things!
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AyaPK)](https://git.io/streak-stats)
+
+---
+
 <p align="center">
   <a href="https://twitter.com/AyaStead" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayastead" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/aya-s-stead" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aya-s-stead" height="30" width="30" /></a>
